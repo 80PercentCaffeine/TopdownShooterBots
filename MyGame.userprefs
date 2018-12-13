@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="MyGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\Player.cs">
+    <Files>
+      <File FileName="src\GameMain.cs" Line="1" Column="1" />
+      <File FileName="src\Game.cs" Line="1" Column="1" />
+      <File FileName="src\Drawing.cs" Line="1" Column="1" />
+      <File FileName="src\Bullet.cs" Line="1" Column="1" />
+      <File FileName="src\Tile.cs" Line="1" Column="1" />
+      <File FileName="src\Player.cs" Line="545" Column="8" />
+      <File FileName="src\ForceMap.cs" Line="1" Column="1" />
+      <File FileName="src\AStarPathfinder.cs" Line="1" Column="1" />
+      <File FileName="src\PathfinderTile.cs" Line="1" Column="1" />
+      <File FileName="src\Entity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
